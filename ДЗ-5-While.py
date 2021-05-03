@@ -8,7 +8,7 @@ while v1 < v2:
     print(v4, "====",v1,"+",v3)
     v1 = v1 + v3;
     if v1 >= v2:
-        print("Hurray!!", v1  )
+        print("Hurray!!! YU-HU!!!", v1  )
 
 
 
